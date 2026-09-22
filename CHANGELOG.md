@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-07)
+## Unreleased (2026-09-22)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`4ef16a9`](https://github.com/stdlib-js/stdlib/commit/4ef16a9543f64c08353ed2ca36e9b7c853e12b2e) - **docs:** remove `API_SUFFIX` wrapper to be consistent with documentation elsewhere _(by Athan Reines)_
 -   [`f53f0cf`](https://github.com/stdlib-js/stdlib/commit/f53f0cf595e5591fe9f7320f4f192fe8c5afa7a8) - **feat:** add `blas/ext/base/done-to` [(#11161)](https://github.com/stdlib-js/stdlib/pull/11161) _(by Muhammad Haris, Athan Reines)_
 
 </details>
